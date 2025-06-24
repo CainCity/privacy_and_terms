@@ -10,3 +10,8 @@
 #### 主要功能
 方案对比、定投收益、定投期望收益
 [前往下载->](https://apps.apple.com/app/id1617445993)
+### 5、PA （ Paint Aide ）
+橙子-画画助手 （ Orange - Paint Aide ）
+#### 主要功能
+绘画临摹、书法临摹，记录临摹学习历程
+[前往下载->](https://apps.apple.com/app/id1643542151)
