@@ -25,3 +25,8 @@
 #### 主要功能
 日常记账、多账本、导入导出
 [前往下载->](https://apps.apple.com/app/id1663723658)
+### 6、BA （ Baking Assistant ）
+橙子-烘焙助手 （ Orange - Baking Assistant ）
+#### 主要功能
+材料管理、配方管理、作品记录
+[前往下载->](https://apps.apple.com/app/id6451264245)
